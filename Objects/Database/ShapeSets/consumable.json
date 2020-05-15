@@ -153,7 +153,7 @@
 				"buoyancy": 7
 			},
 			"flammable": true,
-			"stackSize": 20,
+			"stackSize": 100,
 			"autoTool": "f26a26bf-b9be-4e59-83e4-da2e9e6dd285"
 		},
 		{
@@ -201,7 +201,7 @@
 				"buoyancy": 7
 			},
 			"flammable": true,
-			"stackSize": 20
+			"stackSize": 100
 		},
 		{
 			"uuid": "5530e6a0-4748-4926-b134-50ca9ecb9dcf",
