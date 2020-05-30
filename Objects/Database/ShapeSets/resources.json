@@ -69,7 +69,7 @@
 			},
 			"flammable": false,
 			"density": 250.0,
-			"stackSize": 10
+			"stackSize": 25
 		},
 		{
 			"uuid": "3440440b-d362-4473-aa03-b7c41e1fe7ad",
